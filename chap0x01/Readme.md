@@ -6,6 +6,8 @@
 
 ​	ifconfig -a  
 
+​	ip:192.168.56.101
+
 2.用putty连接得到的ip  
 
 ![连接putty](img\putty_link.png)  
